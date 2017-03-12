@@ -1,3 +1,3 @@
 FROM ubuntu:12.04
-MAINTAINER Daekwon Kim <propellerheaven@gmail.com>
+MAINTAINER jungeun Kim <ibestpro@gmail.com>
 CMD echo 'Hello, Docker!'
